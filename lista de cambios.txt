@@ -21,5 +21,6 @@
 - se actualizaron links globales
 - se cambio a otro repositorio, actualicen la lista a este repositorio.
 https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
+- se arreglo falla sintaxis de lista.
 
   ====== ========
