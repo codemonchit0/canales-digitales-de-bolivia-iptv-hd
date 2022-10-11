@@ -1,0 +1,25 @@
+>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<
+    =====sabado 08 de octubre 2022===========
+- Actualizacion de host de imagenes
+- Correccion sintaxis de enlaces.
+- Eliminacion de canales locales que estan en off por mucho tiempo.
+
+    ======domingo 09 de octubre 2022==========
+- recuperacion de lista original de canales MAIN
+- se agrego el canal RTVE PUNATA 
+- correccion de enlances de origen
+- se agrego la opcion SD del canal local F10
+- se agrego el canal CEACOM HD
+
+    ====== lunes 10 de octubre 2022 ===========
+- se agrego el canal TL ESTRELLA HD
+- se agrego el canal FTV HD
+- se arreglaron enlaces de las imagenes
+- se corrigio actualizo enlaces locales tv bolivia
+
+    ====== martes 11 de octubre 2022 ===========
+- se actualizaron links globales
+- se cambio a otro repositorio, actualicen la lista a este repositorio.
+https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
+
+  ====== ========
