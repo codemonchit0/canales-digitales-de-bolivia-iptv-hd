@@ -1,5 +1,5 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 11 DE OCTUBRE 2022  01:55 a.m======
+====== 11 DE OCTUBRE 2022  14:25 p.m======
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
 
 la lista de canales bolivianos se actualiza cada dia en horarios de 12:39 p.m  y 19:25 p.m
