@@ -1,8 +1,9 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 14 DE OCTUBRE 2022  01:55 a.m======
+====== 14 DE OCTUBRE 2022  14:55 p.m======
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
 
-la lista de canales bolivianos se actualiza cada dia en horarios de 12:39 p.m  y 19:25 p.m
+la lista de canales bolivianos se actualiza cada dia en horarios de 12:39 p.m ,
+14:55 p.m  y 19:25 p.m
 se mantiene actualizada constantemente para que mantener los enlaces en lo posible online.
 
 se recomienda usar los reproductores, SMARTER PLAYER LITE, GSE SMARTER IPTV, IPTV PRO, TIVIMATE, KODI
