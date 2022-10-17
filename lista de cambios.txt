@@ -23,4 +23,8 @@
 https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
 - se arreglo falla sintaxis de lista.
 
-  ====== ========
+    ====== lunes 17 de octubre 2022 ==========
+-se agrego el canala SEÑAL COLOMBIA HD.
+-se corrigieron enlaces de imagenes.
+-se edito sintaxis de lista.
+ ========= ==============
