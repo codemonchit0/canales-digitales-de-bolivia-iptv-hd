@@ -140,36 +140,36 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
 https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
 
-***********SECCION CANALES BOLIVIA 24/7 - USAR REPRODUCTOR EXTERNO VLC - EN SU REPRODUCTOR IPTV************
+***********SECCION CANALES BOLIVIA 24/7 USAR REPRODUCTOR EXTERNO VLC  EN SU REPRODUCTOR IPTV************
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", RED UNO LPZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", RED UNO LPZ HD
 https://www.dailymotion.com/video/x828xvr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", RED UNO SCZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", RED UNO SCZ HD
 https://www.dailymotion.com/video/x825whp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA TEST CANALESBOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*, RED UNO CBBA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*, RED UNO CBBA HD
 https://www.dailymotion.com/video/x827j2y
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", ATB BOLIVIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", ATB BOLIVIA HD
 https://www.dailymotion.com/video/x84eirw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", ATB REGIONALES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", ATB REGIONALES HD
 https://www.dailymotion.com/video/x85aatu
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JKrFSm6/UNITEL-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", UNITEL LPZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKrFSm6/UNITEL-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k52t75S/UNITEL-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", UNITEL SCZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k52t75S/UNITEL-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", UNITEL SCZ HD
 https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qj8PMYj/UNITEL-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", UNITEL CBBA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qj8PMYj/UNITEL-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", UNITEL CBBA HD
 https://www.dailymotion.com/video/x7y922d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*", UNITEL BOLIVIA EN VIVO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 *USAR VLC*", UNITEL BOLIVIA EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="BOLIVIA 24/7 *USAR REPRODUCTOR EXTERNO VLC*",EURO NEWS ES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="BOLIVIA 24/7 *USAR VLC*",EURO NEWS ES HD
 https://www.dailymotion.com/video/x2j7hpf
 
 
