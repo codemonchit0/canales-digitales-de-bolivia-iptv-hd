@@ -31,7 +31,8 @@ https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
 
  ========= miercoles 19 de octubre 2022 ==============
 -se arreglo sintaxis de lista.
--se coloco señales test de  CANALES DE BOLIVIA.
+-se coloco señales test de  CANALES DE BOLIVIA
+utilize reproductor VLC externor con carga de buffer de red 800 ms.
 -se esta probando y testeando reproductores de externos para las listas.
 
 ========= ==============
