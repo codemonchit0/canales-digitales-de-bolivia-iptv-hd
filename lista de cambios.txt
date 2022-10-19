@@ -35,5 +35,15 @@ https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
 utilize reproductor VLC externor con carga de buffer de red 800 ms.
 -se esta probando y testeando reproductores de externos para las listas.
 
-========= ==============
+========= jueves 20 de octubre 2022 ==============
+-se agregaron canales 24/7 con urls fijas, de canales de bolivia.
+Se requiere agregar reproductor externo VLC al reproductor iptv
+para poder reproducir la nueva seccion.
+
+-los unicos problemas de agregar un reproductor externo, es que algunos
+canales no reproducen bien como ser F10 HD.
+por lo cual es necesario intercambiar la reproduccion con el reproductor local y 
+el externo, para ver que canales reproducen y optar por usar el adecuado.
+
+=========  ==============
 
