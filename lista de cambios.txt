@@ -28,4 +28,11 @@ https://github.com/codemonchit0/canales-digitales-de-bolivia-iptv-hd
 -se corrigieron enlaces de imagenes.
 -se edito sintaxis de lista.
 -se arreglo url de canal EL TORO TV
- ========= ==============
+
+ ========= miercoles 19 de octubre 2022 ==============
+-se arreglo sintaxis de lista.
+-se coloco señales test de  CANALES DE BOLIVIA.
+-se esta probando y testeando reproductores de externos para las listas.
+
+========= ==============
+

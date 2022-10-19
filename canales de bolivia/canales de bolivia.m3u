@@ -140,6 +140,23 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
 https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
 
+***********SECCION CANALES BOLIVIA TEST************
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA TEST CANALES", RED UNO LPZ HD (TEST)
+https://www.dailymotion.com/video/x828xvr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDXFgry/SANTA-CRUZ-02.jpg" group-title="BOLIVIA TEST CANALES", RED UNO SCZ HD (TEST)
+https://www.dailymotion.com/video/x825whp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA TEST CANALES", RED UNO CBBA HD (TEST)
+https://www.dailymotion.com/video/x827j2y
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA TEST CANALES", ATB BOLIVIA HD (TEST)
+https://www.dailymotion.com/video/x84eirw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="BOLIVIA TEST CANALES", ATB REGIONALES HD (TEST)
+https://www.dailymotion.com/video/x85aatu
+
 ***********CANALES INTERNACIONALES**************
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6MgpBr/NASA-TV.jpg" group-title="Internacional",NASA TV HD
