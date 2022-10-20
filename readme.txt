@@ -1,12 +1,27 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 20 DE OCTUBRE 2022  01:45 a.m======
+====== 20 DE OCTUBRE 2022  19:25 p.m======
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+NOTA: se dejara de actualizar la lista de canales bolivianos de forma diaria APARTIR DEL
+15 NOVIEMBRE 2022.
+solo se lo realizara de forma semanal para mantenimiento de enlaces y correccion de urls.
 
-la lista de canales bolivianos se actualiza cada dia en horarios de 12:39 p.m ,
-14:55 p.m  y 19:25 p.m
+debido a que se implementara en la lista, URLs fijos de los canales, RED UNO, UNITEL, ATB, 
+EURO NEWS, PANAMERICANA TV, VTV.
+
+estas URLs fijas para que pueda ser reproducidas correctamente se lo tendra que hacer
+con un reproductor externo, solo tendran que seleccionen el reproductor externo VLC
+en su reproductor iptv.
+y asi lograran visualizar sin problemas esos canales.
+
+y para que trabaje de forma correcta la reproduccion, se recomienda los siguientes reproductores IPTV :
+IPTV PRO, IPTV EXTREME, TIVIMATE, SMARTER PLAYER LITE, GSE SMART IPTV.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+horario de actualizacion de lista de canales: 12:39 p.m ,
+14:35 p.m  y 19:25 p.m
 se mantiene actualizada constantemente para que mantener los enlaces en lo posible online.
-
-se recomienda usar los reproductores, SMARTER PLAYER LITE, GSE SMARTER IPTV, IPTV PRO, TIVIMATE, KODI
 
 --PROBLEMAS TECNICOS DE CIERTOS CANALES LOCALES--
 los siguientes canales tienen problemas tecnicos de origen.
