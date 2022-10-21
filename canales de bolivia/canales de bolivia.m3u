@@ -36,13 +36,13 @@ https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOlTP5N-dmv6nFCejmB
 https://stream-04.nyc.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeePkx6xt-PwX9exCKkBJwrTxIuUBpEdpezojcoqoCTR0b)/dm/3/x85aatu/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZROJZ6wnUVRyMMj4_oHKOXXihaScWOax0owe-luGlLij)/dm/3/x7vsfua/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQ_re8EepF2qNG1UDB-MD_ctMMKlbonQtr8CnhCmZy5n)/dm/3/x7vsfua/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vWGzM4/UNITEL-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",UNITEL SANTA CRUZ HD
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR-jFVBpVyznsTQqZMAhNK7_xDM7Xmb42XXvErcONKjt)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUd7ufC1MNcDdnlUovvPbM8buBE6i2dpkOLculnZKYqy)/dm/3/x7vsezg/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ldsfxg5/UNITEL-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",UNITEL COCHABAMBA HD
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUFh2Zr7E7v0Rv7Gc-ERrJUw5ChzEv4e0HR4u4-gHRpcA)/dm/3/x7y922d/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUOapv50wjUbeMR_K7yYDiQ0q_ULbWeQWuojWMh-lkq4y)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL BOLIVIA HD
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_et-eeuivnM5_iD5HYQ03Tee6wwkr-K4MEHHDMy8Z46)/dm/3/x7wzxiw/s/live-3.m3u8
@@ -208,7 +208,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P596KVL/TELESUR-INTERNACIONAL.jpg" group-title="Internacional",TELESUR FHD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P4mPfzP/Garaje-TV-Logo.jpg" group-title="Internacional",GARAGE TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ8WjZg/GARAGE-TV-HD.jpg" group-title="Internacional",GARAGE TV HD
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1599422170_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWhHxHC/CGTN-HD.jpg" group-title="Internacional",CGTN ES HD
