@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 NOTA: se dejara de actualizar la lista de canales bolivianos de forma diaria APARTIR DEL
-15 NOVIEMBRE 2022.
+25 NOVIEMBRE 2022.
 solo se lo realizara de forma semanal para mantenimiento de enlaces y correccion de urls.
 
 debido a que se implementara en la lista, URLs fijos de los canales, RED UNO, UNITEL, ATB, 
