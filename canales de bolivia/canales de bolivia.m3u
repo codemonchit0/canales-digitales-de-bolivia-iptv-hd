@@ -117,7 +117,7 @@ https://master.tucableip.com//35camargo/tracks-v1a1/mono.m3u8
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="Canales Bolivianos",F10 HD
-https://video.live.com.bo:3253/multi_live/play_720.m3u8
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="Canales Bolivianos",DELTA TV HD
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
@@ -129,7 +129,7 @@ https://cloud2.streaminglivehd.com:1936/8222/8222/chunklist_w938213766.m3u8
 https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hybrTvY/F10-SD.jpg" group-title="Canales Bolivianos",F10 SD
-https://video.live.com.bo:3253/multi_live/play_480.m3u8
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4pbkj7/CEACOM-HD.jpg" group-title="Canales Bolivianos",CEACOM HD
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w967622427.m3u8
