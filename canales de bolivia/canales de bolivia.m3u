@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 21 OCT 19:25 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 21 OCT 23:00 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
@@ -321,7 +321,7 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1077940956.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKNyvTd/TELEMUSICA-HD.jpg" group-title="Musicales",TELEMUSICA HD
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=2ms66x5q
 
 *******SECCION DE PELICULAS Y SERIES 24/7*********
 
