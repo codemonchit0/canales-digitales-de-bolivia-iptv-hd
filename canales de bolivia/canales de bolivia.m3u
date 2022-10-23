@@ -1,9 +1,9 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 21 OCT 20:25 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 23 OCT 01:55 a.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLhqWxII03zsoMFgLzdB1K8aOugtV11Yg999ORSVPNIvI)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtDraXW-R98AUVdnTwby3sD14oLVItZDip21QpF7b4Zh)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVvDwM7/UNO-DE-FERIA-FIPAZ.jpg" group-title="Canales Bolivianos",RED UNO DE FERIA 2022
 https://stream-03.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kVRHtHmHj6nYon0Kcbfxl3N6phE8uABKb0CeOJTsWIcM)/dm/3/x8brmv9/d/live-3.m3u8
@@ -12,7 +12,7 @@ https://stream-03.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kVRHtHmHj6nYon0Kcb
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w493362254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXDQ7JB/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmXgyVhr2a667OfPcXHUnxzDH2zlYnxMCAcekK2vvAmH)/dm/3/x825whp/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkWdT1Rq19NAU6jpS-O6zLR1IGSsHc1UJvT2uplyNI9S)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDXFgry/SANTA-CRUZ-02.jpg" group-title="Canales Bolivianos",RED UNO STZ HD (test)
 https://www.dailymotion.com/embed/video/x825whp
@@ -198,7 +198,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="Internacional",EURO NEWS ES HD
-https://stream-04.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa4HNilG9bAaiSd-rt3awch5DC2YVTGH-AnY7vtWH6o0Z)/dm/3/x2j7hpf/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa_j-7x52KfJmGp00-DOmef91FymCP_3z9ovnuHlm_keN)/dm/3/x2j7hpf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="Internacional",HISPANTV HD
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
