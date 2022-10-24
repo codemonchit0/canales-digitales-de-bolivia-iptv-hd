@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 23 OCT 20:25 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 23 OCT 22:00 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
@@ -15,7 +15,7 @@ https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w493362254.m3u8
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkXl0ovIMDfyKX-4JYGnXy0Gsf9aqzXiXyuPA8_5afEI)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDXFgry/SANTA-CRUZ-02.jpg" group-title="Canales Bolivianos",RED UNO STZ HD (test)
-https://www.dailymotion.com/embed/video/x825whp
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x825whp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNRtL1/RED-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpp4ziPFRSmZjlppMwDGMxhP3Cy-xcODFAxgUvgVC-ca)/dm/3/x827j2y/d/live-2.m3u8
@@ -181,9 +181,39 @@ https://www.dailymotion.com/video/x7wzxiw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="BOLIVIA 24/7 USAR VLC",EURO NEWS ES HD
 https://www.dailymotion.com/video/x2j7hpf
 
+*************ZONA TESTING***********************
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="TESTING",EURO NEWS ES HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x2j7hpf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", UNITEL SEÑAL EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", RED UNO EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", ATB EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x85aatu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", FRANCE 24 ESPAÑOL EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/XDJPzMznAjU
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", TN EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/wHn1_QVoXGM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", C5N EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/1QW-0AccJwU
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", TV PUBLICA EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/BPxQ_HmPxkQ
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", AMERICA TV EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/zcWXboTnous
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="TESTING", EL DOCE TV EN VIVO HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/IUQyg-SFvXQ
 
 ***********CANALES INTERNACIONALES**************
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKCkJMJnfGFB7G1klGVFuHpP2ylQ3VUCkYpwV4aLoS_Vix3rKK0VIOdBq5eHx6qOYyC0JhYRQ4ZAZyLegPc9hnuxpxwHbddwnVphfOVeKpLFLcovcws-5TQ5qY2SBp0WSk294uRLpsL2ZOZliv-1e4xYrPhYypAPJYl_VBzF48FzRTWuFPb9wYh9goww/s2639/NASA%20TV%20HD%2002.jpg" group-title="Internacional",NASA TV HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -225,7 +255,7 @@ https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 https://stream-10.ix7.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnCTQKqspHPt9O55F0FdToBVBoH3XH9dSmCT5LH7Fef1)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0bWH4n/NTN-24-HD.jpg" group-title="Internacional",NTN 24 INTERNACIONAL HD
-https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2Gqdkju6Hx891Rwgie7r5yNCIN9mwldSFSMUjJr7gix)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_8afhLwYKnRbUwexuO-gXK2qA0KOPLg1eYLYpOOLWft)/dm/3/x7w4okl/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="Internacional",FORO TV HD
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
