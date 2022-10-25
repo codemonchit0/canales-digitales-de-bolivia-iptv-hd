@@ -1,9 +1,9 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 24 OCT 19:39 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 24 OCT 20:45 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsPArkbOW3WYy6S0UiJunCf0vbiKqAdpISqKEjMx_I2P)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsPArkbOW3WYy6S0UiJunCf0vbiKqAdpISqKEjMx_I2P)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVvDwM7/UNO-DE-FERIA-FIPAZ.jpg" group-title="Canales Bolivianos",RED UNO DE FERIA 2022
 https://stream-04.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kULQC6TqA4jatZFTihCmhdBuO1SHEaBoOwWcJ7fLd5Ax)/dm/3/x8brmv9/d/live-3.m3u8
@@ -139,6 +139,9 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
 https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bB4j1n2/ZOY-TV-HD-BOLIVIA.jpg" group-title="Canales Bolivianos",ZOY TV HD
+https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
 
 ***********SECCION CANALES BOLIVIA 24/7 USAR REPRODUCTOR EXTERNO VLC  EN SU REPRODUCTOR IPTV************
 
