@@ -55,5 +55,9 @@ el externo, para ver que canales reproducen y optar por usar el adecuado.
 -se agrego el canal boliviano ZOY TV HD.
 -se corrigieron urls globales.
 
+============ martes 25 de octubre 2022 ====================
+-se agrego seccion internacional para reproducir con reproductor externo vlc.
+-se corrigierno enlaces seccion canales de bolivia.
+
 ============ ====================
 
