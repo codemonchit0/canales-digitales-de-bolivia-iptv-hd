@@ -59,5 +59,10 @@ el externo, para ver que canales reproducen y optar por usar el adecuado.
 -se agrego seccion internacional para reproducir con reproductor externo vlc.
 -se corrigierno enlaces seccion canales de bolivia.
 
+============ lunes 31 de octubre 2022 ====================
+-se agrego un video tutorial de como visualizar los canales de bolivia.
+-se corrigio enlaces globales.
+-se corrigio enlaces de las imagenes.
+
 ============ ====================
 
