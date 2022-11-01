@@ -63,7 +63,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1791536562.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
-https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1311356096.m3u8
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1767566618.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
@@ -340,6 +340,9 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMGhvkY/GRACIA-TV-HD.jpg" group-title="Infantiles",GRACIA TV HD
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+
 *****CANALES DE MUSICA*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="Musicales",TELE RITMO HD
@@ -384,8 +387,14 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w1077940956.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKNyvTd/TELEMUSICA-HD.jpg" group-title="Musicales",TELEMUSICA HD
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WKNyvTd/TELEMUSICA-HD.jpg" group-title="Musicales",TELEMUSICA SEÑAL 2 HD
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=t32260yb
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5MtX4sV/VC-MUSIC-CRISTIANA.jpg" group-title="Musicales",VC MUSICA CRISTIANA HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w1304599062.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3MmSdpK/VCLASIC-HD.jpg" group-title="Musicales",VCLASSIC TROPICAL HD
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1802582272.m3u8
 
 *******SECCION DE PELICULAS Y SERIES 24/7*********
 
