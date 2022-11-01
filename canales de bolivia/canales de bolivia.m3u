@@ -48,10 +48,7 @@ https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJsjPPLQLUrqJTzs9v
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-PumXLpRoJYEtTqnWe8OCktnmdT7E1-ezQGYnltD7f-)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1458110244.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x7Q3031/RTP-EN-VIVO-HD-0202.jpg" group-title="Canales Bolivianos",RTP LPZ HD
-http://www.channel.tevemi.com:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="Canales Bolivianos",CADENA A HD
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w786321094.m3u8
