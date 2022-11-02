@@ -1,6 +1,6 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 02 DE NOVIEMBRE 2022  02:45 a.m======
->>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-00000000000000000000002022<<
+====== 02 DE NOVIEMBRE 2022  12:39 p.m======
+>>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 NOTA: solo se comunica que se mantendra la lista actualizada todos los dias como siempre
