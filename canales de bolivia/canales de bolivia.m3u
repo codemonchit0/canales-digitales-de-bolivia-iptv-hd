@@ -29,13 +29,13 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgENq0Semlpyyksx2h67prXpErublULtzKzN6sb5BmAa)/dm/3/x84eirw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB COCHABAMBA HD
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v32FSAHeLMG9mz_eVuENSu_rmPqrX86hspkiTTUTaV0w)/dm/3/x89sfvo/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v32FSAHeLMG9mz_eVuENSu_rmPqrX86hspkiTTUTaV0w)/dm/3/x89sfvo/s/live-3.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhrwGn4/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SANTA CRUZ HD
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOl1m09Zng0mTR9SzIYYi56EePsuyBcIc4IybE82W_rOD)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOl1m09Zng0mTR9SzIYYi56EePsuyBcIc4IybE82W_rOD)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9GpJZs/ATB-REGIONALES-02-HD.jpg" group-title="Canales Bolivianos",ATB REGIONALES HD
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOl1m09Zng0mTR9SzIYYi56EePsuyBcIc4IybE82W_rOD)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOl1m09Zng0mTR9SzIYYi56EePsuyBcIc4IybE82W_rOD)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZs-EVGmp_AEqJxAvOePvNl0BTJJb2h-mdmfE9ZzDBSm)/dm/3/x7vsfua/d/live-3.m3u8
@@ -169,7 +169,7 @@ https://www.dailymotion.com/video/x84t82c
 https://www.dailymotion.com/video/x89sfvo
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgriN9CBz3p14fl-js6SZXWvOhhg2wtoMfj10fpAot8lIeWHkNtEu6ZYRpYuQzNMcMaRjkaEgts_XK6NBAC9OhdpPh9ZXSC_0tf_-VpJezD_KL9l-ZayuZs4eA-SVKlB7zHlY-2RSYNjWUaSJI2TLHW9aiJyKNTJDP2eGUqgwQuIP9nVrhpYVrbqJEV_A/s3024/ATB%20REGIONALES%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB REGIONALES HD
-https://www.dailymotion.com/video/x85aatu
+https://www.dailymotion.com/video/x84t82c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKrFSm6/UNITEL-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
