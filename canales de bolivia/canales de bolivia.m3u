@@ -1,11 +1,11 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 05 NOV 12:39 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 05 NOV 16:55 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrbd7Q2NGt68r4Gep1sJftdtwy9hhwCJUv--bmJE9efZ)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnJ0UXZFBQvX1Rwp_FwP7YWI1kWaYZxoSv0hoF-99QTu)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVvDwM7/UNO-DE-FERIA-FIPAZ.jpg" group-title="Canales Bolivianos",RED UNO DE FERIA 2022
 https://stream-04.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kULQC6TqA4jatZFTihCmhdBuO1SHEaBoOwWcJ7fLd5Ax)/dm/3/x8brmv9/d/live-3.m3u8
@@ -26,13 +26,13 @@ https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl3pZ2MAYSh_339mh1
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHf3QTr/ATB-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",ATB BOLIVIA HD
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpCahj2hjgolVvuYcM1_BJ-vpnMKWlytV7Ltnv7OT9I5)/dm/3/x84eirw/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOntCTOxjx3hStbPyGRty3ecgMGJ2h2bLt5RAtLVLpKMH)/dm/3/x84eirw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB COCHABAMBA HD
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vx_EEnbV2J_5OKN4NFa0I6d3SXZjK4WdpSnoM1DLhA02)/dm/3/x89sfvo/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v4ZFMAb6driZvK_Ff0J2MbPZCiO-CA2IX1Wd8ZVVAaLa)/dm/3/x89sfvo/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhrwGn4/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SANTA CRUZ HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvPJJErfpoAutfcWjUlpphBEdJS46S52LEKs74LrQAnS)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOq-1wJcOYvOrqvb2A1gfpfdswuu0679bRN4UxOBw6XHO)/dm/3/x84t82c/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9GpJZs/ATB-REGIONALES-02-HD.jpg" group-title="Canales Bolivianos",ATB REGIONALES HD
 https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOvPJJErfpoAutfcWjUlpphBEdJS46S52LEKs74LrQAnS)/dm/3/x84t82c/s/live-3.m3u8
@@ -47,7 +47,7 @@ https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZaDiut6ol4oF1aZ4GY
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUKc6AoW5xyCaeuqquosbEOSW8h8DdxZ33nTqlNMr__jH)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL BOLIVIA HD
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_AGdx5J6JISrlB7yf7Q-bpSEYXdzuqq3tDIoRQM6Wds)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4-R42vW0kID7nlXA3I2w6FjG9KpxVYdQPyEWkymQCSh)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
@@ -198,7 +198,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://unlimited1-us.dps.live/t13/t13.smil/t13/livestream1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z5LcFGH/EURO-NEWS-01.jpg" group-title="Internacional",EURO NEWS ES HD
-https://stream-03.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxF4FqYupA23M4mBPI98bJkimkU9zquHk6FCt1oGn2Ao)/dm/3/x2j7hpf/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa1q2FW_NJ9s6sGv0rxhRDnokVQpGOGzsh6Esi4L7iy_-)/dm/3/x2j7hpf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="Internacional",HISPANTV HD
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
@@ -222,10 +222,10 @@ https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmQ2PE4UNmlySdcVWs
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsTw363/VENEZOLANA-TV.jpg" group-title="Internacional",VTV VENEZOLANA DE TV HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLitiVNGrrmBnG5AbIe4fWnyyxBtwlutOqICELFyZo_AJ)/dm/3/x828i6j/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLj6fPYMdOA_Sxxdt43CuFe39bxU0HrowBMAsehwbh5hI)/dm/3/x828i6j/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0bWH4n/NTN-24-HD.jpg" group-title="Internacional",NTN 24 INTERNACIONAL HD
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4Vs3fZzOFj_MdTBxwF-Vzv7DAeG9z04rfTG6ishXPGx)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0he_DOlJNNIFXGne72zSZAXQhMxAzmDILfJG0-gW-fv)/dm/3/x7w4okl/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="Internacional",FORO TV HD
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
