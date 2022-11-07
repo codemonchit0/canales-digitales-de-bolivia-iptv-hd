@@ -263,6 +263,9 @@ https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u81
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Internacional",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7mkbY9/TELEFUTURO-HD.jpg" group-title="Internacional",TELEFUTURO HD
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w1258405347.m3u8
+
 *****INTERNACIONAL HD USAR VLC*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsTw363/VENEZOLANA-TV.jpg" group-title="INTERNACIONAL HD USAR VLC",VENEZOLANA TV HD
