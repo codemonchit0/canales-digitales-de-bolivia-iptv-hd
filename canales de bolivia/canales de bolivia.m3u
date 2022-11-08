@@ -1,11 +1,11 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 07 NOV 19:20 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 07 NOV 23:00 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkbxxGME82n87M3RQjZAgqZw4u-aw0k7td3GXIhLh4g0)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkbxxGME82n87M3RQjZAgqZw4u-aw0k7td3GXIhLh4g0)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NVvDwM7/UNO-DE-FERIA-FIPAZ.jpg" group-title="Canales Bolivianos",RED UNO DE FERIA 2022
 https://stream-04.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kULQC6TqA4jatZFTihCmhdBuO1SHEaBoOwWcJ7fLd5Ax)/dm/3/x8brmv9/d/live-3.m3u8
@@ -20,7 +20,7 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrkqJ7WsuVa-Yh1I4a
 https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMIvkrrCHL7RdM773Ti__M5XVzDjH2YvVEcdlKBz32zaV)/dm/3/x8do3kd/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNRtL1/RED-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt_58_eOR78_H-4CQLEOJUVxxlhrbxkGy4mvSFiMopGo)/dm/3/x827j2y/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt_58_eOR78_H-4CQLEOJUVxxlhrbxkGy4mvSFiMopGo)/dm/3/x827j2y/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="Canales Bolivianos",BOLIVISION LPZ HD
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
@@ -79,8 +79,8 @@ https://seo.tv.bo/tv/DEP.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT BOLIVIA HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="Canales Bolivianos",MEGA TV HD
-https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w878785568.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnWz5wT/MEGA-TV-YACUIBA.jpg" group-title="Canales Bolivianos",MEGA TV HD
+https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1850048317.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W23sBB7/RENUEVA-DIGITAL-FHD.jpg" group-title="Canales Bolivianos",RENUEVA DIGITAL HD
 https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
@@ -88,7 +88,7 @@ https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQQVzcS/XTO-HD.jpg" group-title="Canales Bolivianos",XTO HD
 http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vk12yF7/RED-ADVENIR-HD.jpg" group-title="Canales Bolivianos",RED ADVENIR HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XVhbT8/RED-ADVENIR-HD.jpg" group-title="Canales Bolivianos",RED ADVENIR HD
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w87641045.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJCR9mb/TV-OFF-HD-EL-ALTO.jpg" group-title="Canales Bolivianos",TV OFF HD
@@ -106,7 +106,7 @@ https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w1393748110.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rmdsmcs/BOPLUS-TV.jpg" group-title="Canales Bolivianos",BoPlus TV HD
 https://servilive.com:3342/live/boplustvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XVbSwy0/MARKVISION-HD.jpg" group-title="Canales Bolivianos",MARKVISION TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgsD31N/MARKVISION-HD.jpg" group-title="Canales Bolivianos",MARKVISION TV HD
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w948858700.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjLt8Pr/MEGAVISION-HD.jpg" group-title="Canales Bolivianos",MEGAVISION HD
@@ -265,13 +265,13 @@ https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w125840
 
 *****INTERNACIONAL HD USAR VLC*******
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsTw363/VENEZOLANA-TV.jpg" group-title="INTERNACIONAL HD USAR VLC",VENEZOLANA TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVLGJWx/VTV-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",VENEZOLANA TV HD
 https://www.dailymotion.com/video/x828i6j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBmTTxQ/EURO-NEWS-VLC.jpg group-title="INTERNACIONAL HD USAR VLC",EURO NEWS HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/HYE67W-35KI
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9rzDS7Z/PANAMERICANA-HD.jpg" group-title="INTERNACIONAL HD USAR VLC",PANAMERICANA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFW0Hdj/PANAMERICANA-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",PANAMERICANA HD
 https://www.dailymotion.com/video/x774s7s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="INTERNACIONAL HD USAR VLC",CARACOL NOTICIAS EN VIVO HD
