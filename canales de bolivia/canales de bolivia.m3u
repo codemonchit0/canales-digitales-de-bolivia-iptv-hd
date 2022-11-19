@@ -14,7 +14,7 @@ https://stream-04.nyc.dailymotion.com/sec(jnxyT8o494kN4w9oL8D7kULQC6TqA4jatZFTih
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w150126011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXDQ7JB/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvAH_r0A7lO7ZSwcStK0F7SI-Bb42hN9BHf99BBE5Ut0)/dm/3/x825whp/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvAH_r0A7lO7ZSwcStK0F7SI-Bb42hN9BHf99BBE5Ut0)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQNJbbr/UNO-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",RED UNO BOLIVIA HD 
 https://stream-03.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMKkvuqUwBDo4wrsBv8ri1YqERGhoiCqVj0hmmxzRt4_j)/dm/3/x8do3kd/s/live-2.m3u8
@@ -307,7 +307,10 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ms5CPZc/WOWLY-HD.jpg" group-title="Infantiles",WOWLY HD
+https://stream.wowlymedia.com/hls/stream/index.m3u8
 
 *****CANALES DE MUSICA*******
 
@@ -360,7 +363,7 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=t32260yb
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w1304599062.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3MmSdpK/VCLASIC-HD.jpg" group-title="Musicales",VCLASSIC TROPICAL HD
-https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1802582272.m3u8
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1538179976.m3u8
 
 *******SECCION DE PELICULAS Y SERIES 24/7*********
 
