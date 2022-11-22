@@ -69,5 +69,26 @@ el externo, para ver que canales reproducen y optar por usar el adecuado.
 gracia tv hd, vc musica cristiana.
 -se arreglaron enlaces globales.
 
+============ lunes 21 noviembre 2022 ====================
+-se renovaron los enlaces de origen de los siguientes canales:
+ABY AYALA TV
+RT NOTICIAS
+RTP BOLIVIA
+TVU BOLIVIA
+SEO TV BOLIVIA
+TOP LATINO
+LATINO KIDS
+MAGICO KIDS
+
+-se agrego nuevo canales:
+WOWLY TV INFANTIL
+TELESUR SD NOTICIAS
+LATINO RADIO HD MUSICAL
+
+-se agrego una aplicacion APK para que los usuarios puedan ver los 64
+partidos de QATAR 2022.
+
+-actualizacion de enlaces de las imagenes.
+
 ============ ====================
 

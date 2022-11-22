@@ -1,11 +1,11 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 21 NOV 19:25 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 21 NOV 23:25 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLg21qImWPD5farEc6Swx7dr7IbcyyunBRFBqLkwkOo02)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLg21qImWPD5farEc6Swx7dr7IbcyyunBRFBqLkwkOo02)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89bYFRR/UNITEL-QATAR-HD.jpg" group-title="Canales Bolivianos",UNITEL QATAR HD 2022
 https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0vJhb2dGWpXmu909bshGb2bLeUWAqYgsPOcsva5oiZQN)/dm/3/x8eimg9/s/live-3.m3u8
@@ -206,8 +206,11 @@ https://live1.presstv.ir/live/hispan_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7GBCGm/DW-EN-ESPA-OL-HD.jpg" group-title="Internacional",DW ESPAÑOL FHD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P596KVL/TELESUR-INTERNACIONAL.jpg" group-title="Internacional",TELESUR FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYRjFz4/TELESUR-HD-NEW.jpg" group-title="Internacional",TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bHXdGh/TELESUR-SD-NEW.jpg" group-title="Internacional",TELESUR SD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ8WjZg/GARAGE-TV-HD.jpg" group-title="Internacional",GARAGE TV HD
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1599422170_b1296000_sleng.m3u8
@@ -364,6 +367,9 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w1304599062.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3MmSdpK/VCLASIC-HD.jpg" group-title="Musicales",VCLASSIC TROPICAL HD
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1538179976.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRqRVRT/LATINOS-RADIO-HD.jpg" group-title="Musicales",LATINOS RADIO HD
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/chunklist_w573650487.m3u8
 
 *******SECCION DE PELICULAS Y SERIES 24/7*********
 
