@@ -65,16 +65,22 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w17915
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1883101397.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
-https://seo.tv.bo/tv/SEOX.m3u8
+https://seo.tv.bo/tv/XSEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Canales Bolivianos",SEO TV KIDS HD
-https://seo.tv.bo/tv/KIDSX.m3u8
+https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C04cJMk/seo-telenovelas-hd.jpg" group-title="Canales Bolivianos",SEO TELENOVELAS HD
-https://seo.tv.bo/tv/NVLSX.m3u8
+https://live.seo.tv.bo/live/3SEO.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bXPhCK/SEO-TV-DEPORTES-PELICULAS.jpg" group-title="Canales Bolivianos",SEO DEPORTES Y PELICULAS HD
-https://seo.tv.bo/tv/DEPX.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bXPhCK/SEO-TV-DEPORTES-PELICULAS.jpg" group-title="Canales Bolivianos",SEO PELICULAS HD
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="Canales Bolivianos",SEO SEÑAL 5 HD
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="Canales Bolivianos",SEO DEPORTES HD
+https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT BOLIVIA HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
