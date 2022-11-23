@@ -1,11 +1,11 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 22 NOV 19:25 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 23 NOV 03:59 a.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrPnXJx-9m6Svg17ErSsz_bMBcn9QxeYFANeF_3FOLnY)/dm/3/x828xvr/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnFgqh8mQsDCQ_uZFGn2WML4QMivINY5kTyU7XCOfpEw)/dm/3/x828xvr/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89bYFRR/UNITEL-QATAR-HD.jpg" group-title="Canales Bolivianos",UNITEL QATAR HD 2022
 https://stream-04.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0oOET_B9cCAhsKw7azUOF_7a1K4B6epI6oCyRQIhMuic)/dm/3/x8eimg9/s/live-3.m3u8
@@ -14,28 +14,28 @@ https://stream-04.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0oOET_B9cCAhsKw7az
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w150126011.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hXDQ7JB/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnwgu-s14zUQ4tnBIjO7jjvUbRSNNSjvPCifcNRwoeUS)/dm/3/x825whp/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl3rqkDiLmyEz-HYg216kAYKX1hYoJHcbcLnx9XE_ryR)/dm/3/x825whp/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rQNJbbr/UNO-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",RED UNO BOLIVIA HD 
 https://stream-01.nyc.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMHtpOQKgRjRU2Ma1bPhuDSx7VecrUrqzj2sYS5XAg7mC)/dm/3/x8do3kd/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YDNRtL1/RED-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkhgpzCkcLWATzeDuI9cgoG1rJSjXRuG3oB2Fd-JkHN8)/dm/3/x827j2y/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqLSB918Q44ryZAnsrJK3z4BS2457JH9aIdLwFQPXBny)/dm/3/x827j2y/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="Canales Bolivianos",BOLIVISION LPZ HD
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHf3QTr/ATB-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",ATB BOLIVIA HD
-https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOgPT9OYtKdvBB7qUMLfUSky26Nfd0OtwJD_4pPfEq5Ng)/dm/3/x84eirw/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpTM7k4ElumMtImD-aBIrmLkhD7x7RtvK4K-Z-LuCNXO)/dm/3/x84eirw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhrwGn4/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SANTA CRUZ HD
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOofEuhY_6JFUtURu-uESImYsgf4pZoF4quAgzkDQuLgq)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuJ_geJEFt-dlPTxAbXi2mDSjRNsrrDIjdnEpfAngil0)/dm/3/x84t82c/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB CBBA HD
 https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-4Lbltv3Jq4iv9U-vFTPkHx3Rd_15gNHNLT4RaLuLUn)/dm/3/x89sfvo/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9GpJZs/ATB-REGIONALES-02-HD.jpg" group-title="Canales Bolivianos",ATB REGIONALES HD
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOofEuhY_6JFUtURu-uESImYsgf4pZoF4quAgzkDQuLgq)/dm/3/x84t82c/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOuJ_geJEFt-dlPTxAbXi2mDSjRNsrrDIjdnEpfAngil0)/dm/3/x84t82c/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD [NOT 24/7]
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za3mwmub0a9uCAjuhelXlHViG5-uR7Mr7uzYlgF3YP-v)/dm/3/x7vsfua/d/live-3.m3u8
@@ -222,7 +222,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0bWH4n/NTN-24-HD.jpg" group-title="Internacional",NTN 24 INTERNACIONAL HD
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8Xf6sb0DBn2uvD4U8aBZC7PrAXEoLBtcvTdO2psKPrQ)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwt9hAegliwzbqi5cawCNCTkcGRozoyntmab2ZsDNzQ4)/dm/3/x7w4okl/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="Internacional",FORO TV HD
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
@@ -262,6 +262,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7mkbY9/TELEFUTURO-HD.jpg" group-title="Internacional",TELEFUTURO HD
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w1258405347.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVRTP5M/BEST-CABLE-TV-HD.jpg" group-title="Internacional",BEST CABLE TV HD
+https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 
 *****INTERNACIONAL HD USAR VLC*******
 
@@ -376,6 +379,9 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FV1XjNL/BEST-CABLE-MUSIC-HD.jpg" group-title="Musicales",BEST CABLE MUSIC HD
 https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxWgkGC/HATUN-TV-HD.jpg" group-title="Musicales",HATUN TV HD
+https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
 *******SECCION DE PELICULAS Y SERIES 24/7*********
 
