@@ -1,5 +1,5 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 24 DE NOVIEMBRE 2022  13:00 p.m======
+====== 24 DE NOVIEMBRE 2022  16:55 p.m======
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2022<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
@@ -7,7 +7,7 @@ NOTA: solo se comunica que se mantendra la lista actualizada todos los dias como
 hasta lograr enlaces fijos de los canales locales bolivianos
 
 y recordarles que la nueva seccion BOLIVIA 24/7 para que trabaje de forma correcta la reproduccion,
-se recomienda agregar un REPRODUCTOR EXTERNO COMO VLC, eso tienen que configurarlo y asignarno 
+se recomienda agregar un REPRODUCTOR EXTERNO COMO VLC, eso tienen que configurarlo y asignarno
 en la configuracion de sus reproductores IPTV, nosotros recomendamos los siguientes reproductores IPTV :
 IPTV PRO, IPTV EXTREME, TIVIMATE, SMARTER PLAYER LITE, GSE SMART IPTV.
 -----------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ los siguientes canales tienen problemas tecnicos de origen.
 
 ---PROYECTO IMPLEMENTADO---
 para los canales RED UNO, ATB, UNITEL, se agrego una opcion BOLIVIA 24/7 con enlaces fijos, el detalle radica
-de que es necesario implementar un reproductor externo como VLC, en las opciones LIVE del reproductor iptv, con 
+de que es necesario implementar un reproductor externo como VLC, en las opciones LIVE del reproductor iptv, con
 ello ya se podra ver sin problemas esa seccion, recordando que los canales UNITEL solo transmiten en vivo
 en horarios de noticieros y revistas.
 
