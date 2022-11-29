@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 29 NOV 15:35 p.m****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 29 NOV 16:15 p.m****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -74,16 +74,16 @@ https://live.seo.tv.bo/live/2SEO.m3u8
 https://live.seo.tv.bo/live/3SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2FJYdS/SEO-TV-PELICULAS.jpg" group-title="Canales Bolivianos",SEO PELICULAS HD
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://live.seo.tv.bo/live/FHDpe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jczb3xH/SEO-TV-QATAR-2022.jpg" group-title="Canales Bolivianos",SEO TV QATAR 2022 HD
 https://live.seo.tv.bo/live/5SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhfLXTR/SEO-TV-DEPORTES.jpg" group-title="Canales Bolivianos",SEO TV DEPORTES HD
-https://live.seo.tv.bo/live/6SEO.m3u8
+https://live.seo.tv.bo/live/6FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJ5vTkj/SEO-TV-QATAR-02-HD.jpg" group-title="Canales Bolivianos",SEO TV QATAR 02 HD
-https://live.seo.tv.bo/live/7SEO.m3u8
+https://live.seo.tv.bo/live/7FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT BOLIVIA HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
@@ -194,16 +194,16 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************MUNDIAL QATAR 2022**************
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpvxnSm/QATAR-01.jpg" group-title="MUNDIAL QATAR 2022",QATAR 01 HD
-https://live.seo.tv.bo/live/6SEO.m3u8
+https://live.seo.tv.bo/live/5SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHpD0zk/QATAR-02.jpg" group-title="MUNDIAL QATAR 2022",QATAR 02 HD
-https://live.seo.tv.bo/live/7SEO.m3u8
+https://live.seo.tv.bo/live/6FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZkr0vG/QATAR-03.jpg" group-title="MUNDIAL QATAR 2022",QATAR 03 HD
 https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht2tYwf/QATAR-04.jpg" group-title="MUNDIAL QATAR 2022",QATAR 04 2022 HD
-https://live.seo.tv.bo/live/5SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ht2tYwf/QATAR-04.jpg" group-title="MUNDIAL QATAR 2022",QATAR 04 HD
+https://live.seo.tv.bo/live/7FHD.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
@@ -384,7 +384,7 @@ https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxmLSpY/PLANETA-MUSIC-HD.jpg" group-title="Musicales",PLANETA TV MUSIC HD
-https://scl.edge.grupoz.cl/music/live/chunklist_w2131323372.m3u8
+https://scl.edge.grupoz.cl/music/live/chunklist_w1918406275.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/94SfsJk/ROCK-TV-HD.jpg" group-title="Musicales",RCK TV HD
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w603424388.m3u8
