@@ -74,16 +74,16 @@ https://live.seo.tv.bo/live/2SEO.m3u8
 https://live.seo.tv.bo/live/3SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2FJYdS/SEO-TV-PELICULAS.jpg" group-title="Canales Bolivianos",SEO PELICULAS HD
-https://live.seo.tv.bo/live/FHDpe.m3u8
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jczb3xH/SEO-TV-QATAR-2022.jpg" group-title="Canales Bolivianos",SEO TV QATAR 2022 HD
 https://live.seo.tv.bo/live/5SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhfLXTR/SEO-TV-DEPORTES.jpg" group-title="Canales Bolivianos",SEO TV DEPORTES HD
-https://live.seo.tv.bo/live/6FHD.m3u8
+https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJ5vTkj/SEO-TV-QATAR-02-HD.jpg" group-title="Canales Bolivianos",SEO TV QATAR 02 HD
-https://live.seo.tv.bo/live/7FHD.m3u8
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT BOLIVIA HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
@@ -153,6 +153,20 @@ https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bB4j1n2/ZOY-TV-HD-BOLIVIA.jpg" group-title="Canales Bolivianos",ZOY TV HD
 https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
+
+***********BOLIVIA SEO TV FHD************
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8jb2Ty/NEW-SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV FHD
+https://live.seo.tv.bo/live/FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVhJYQ5/NEW-SEO-TV-PELICULAS-FHD.jpg" group-title="Canales Bolivianos",SEO TV PELICULAS FHD
+https://live.seo.tv.bo/live/FHDpe.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k1sL8BF/NEW-SEO-TV-DEPORTES-FHD.jpg" group-title="Canales Bolivianos",SEO TV DEPORTES FHD
+https://live.seo.tv.bo/live/6FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b3ZWCvW/NEW-SEO-TV-DEPORTES-02-FHD.jpg" group-title="Canales Bolivianos",SEO TV DEPORTES 02 FHD
+https://live.seo.tv.bo/live/7FHD.m3u8
 
 ***********SECCION CANALES BOLIVIA 24/7 USAR REPRODUCTOR EXTERNO VLC  EN SU REPRODUCTOR IPTV************
 
