@@ -65,25 +65,25 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w17915
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1883101397.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
-https://live.seo.tv.bo/live/1SEO.m3u8
+https://seo.tv.bo/tv/1SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Canales Bolivianos",SEO TV KIDS HD
-https://live.seo.tv.bo/live/2SEO.m3u8
+https://seo.tv.bo/tv/2KIDS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C04cJMk/seo-telenovelas-hd.jpg" group-title="Canales Bolivianos",SEO TELENOVELAS HD
-https://live.seo.tv.bo/live/3SEO.m3u8
+https://seo.tv.bo/tv/3NVLS.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2FJYdS/SEO-TV-PELICULAS.jpg" group-title="Canales Bolivianos",SEO PELICULAS HD
-https://live.seo.tv.bo/live/4SEO.m3u8
+https://seo.tv.bo/tv/4PE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jczb3xH/SEO-TV-QATAR-2022.jpg" group-title="Canales Bolivianos",SEO TV QATAR 2022 HD
-https://live.seo.tv.bo/live/5SEO.m3u8
+https://seo.tv.bo/tv/5EVE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhfLXTR/SEO-TV-DEPORTES.jpg" group-title="Canales Bolivianos",SEO TV DEPORTES HD
-https://live.seo.tv.bo/live/6SEO.m3u8
+https://seo.tv.bo/tv/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJ5vTkj/SEO-TV-QATAR-02-HD.jpg" group-title="Canales Bolivianos",SEO TV QATAR 02 HD
-https://live.seo.tv.bo/live/7SEO.m3u8
+https://seo.tv.bo/tv/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT BOLIVIA HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
@@ -137,7 +137,7 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w153237228.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg" group-title="Canales Bolivianos",RTVE PUNATA HD
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w647373537.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WFsPfCt/F10-CHAIRITO-MUSICAL-HD.jpg" group-title="Canales Bolivianos",F10 CHAIRITO MUSICAL HD
 https://video.live.com.bo:3253/stream/play.m3u8
@@ -166,10 +166,10 @@ https://seo.tv.bo/tv/4FHD.m3u8
 https://seo.tv.bo/tv/4FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rB0G5w/SEO-TV-DEPORTES-FHD-NEW.jpg" group-title="SEO TV FHD",SEO TV DEPORTES FHD
-https://live.seo.tv.bo/live/6FHD.m3u8
+https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jbNhpmy/SEO-TV-DEPORTES-02-FHD-NEW.jpg" group-title="SEO TV FHD",SEO TV DEPORTES 02 FHD
-https://live.seo.tv.bo/live/7FHD.m3u8
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 ***********SECCION CANALES BOLIVIA 24/7 USAR REPRODUCTOR EXTERNO VLC  EN SU REPRODUCTOR IPTV************
 
@@ -211,16 +211,16 @@ https://www.dailymotion.com/video/x7wzxiw
 
 **************MUNDIAL QATAR 2022**************
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qpvxnSm/QATAR-01.jpg" group-title="MUNDIAL QATAR 2022",QATAR 01 HD
-https://live.seo.tv.bo/live/5SEO.m3u8
+https://seo.tv.bo/tv/5EVE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHpD0zk/QATAR-02.jpg" group-title="MUNDIAL QATAR 2022",QATAR 02 HD
-https://live.seo.tv.bo/live/6FHD.m3u8
+https://seo.tv.bo/tv/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZkr0vG/QATAR-03.jpg" group-title="MUNDIAL QATAR 2022",QATAR 03 HD
-https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w1751889420.m3u8
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/chunklist_w647373537.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ht2tYwf/QATAR-04.jpg" group-title="MUNDIAL QATAR 2022",QATAR 04 HD
-https://live.seo.tv.bo/live/7FHD.m3u8
+https://seo.tv.bo/tv/7SEO.m3u8
 
 **************DOCUMENTALES Y NOTICIAS**************
 
