@@ -38,16 +38,16 @@ https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v84PwYdy7GJdLvkHr2
 https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v84PwYdy7GJdLvkHr2ikKGbZqqGkMfa19-1UKtciDEyU)/dm/3/x89sfvo/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD [NOT 24/7]
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTpK7NVl2Fk9A2ow2mSKyHCKi_xULC11xTy7atlc2tAt)/dm/3/x7vsfua/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYR_1ctjFm33pkZVIm6aH9UknE7_yBvkR6dk9fRgj3IV)/dm/3/x7vsfua/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7vWGzM4/UNITEL-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",UNITEL SANTA CRUZ HD [NOT 24/7]
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXDyIBEDfbfqSAJwWAitkBwQ_bXgtv7_OH2eDPFquQKf)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQF7cALrFrQWg314_H38lfnWV5hamdv16Pju0bdNyBVb)/dm/3/x7vsezg/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ldsfxg5/UNITEL-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",UNITEL COCHABAMBA HD [NOT 24/7]
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHApPwbG-Ru0Gk_Sc-Y_iQ8OvSapUq6sy4Hrig-ivuBu)/dm/3/x7y922d/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUDbOR8uZRL65MS7VDVUWcK8OtQU3cV_4F1PePyjUAguf)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL BOLIVIA HD [NOT 24/7]
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4UXB78KcR6VJLsiwp-BDxJQAZFIv9ruIaTy4aSdSvXA)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4UXB78KcR6VJLsiwp-BDxJQAZFIv9ruIaTy4aSdSvXA)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
@@ -244,7 +244,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTZxTCq/HISPANTV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",HISPANTV HD
-https://live1.presstv.ir/live/hispan_360p/index.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYRjFz4/TELESUR-HD-NEW.jpg" group-title="DOCUMENTALES Y NOTICIAS",TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
