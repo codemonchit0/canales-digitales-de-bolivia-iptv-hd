@@ -153,6 +153,9 @@ https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO LPZ HD
 https://www.dailymotion.com/video/x828xvr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO LPZ TEST
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K9r9Jk/UNITEL-QATAR-HD-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL QATAR 2022 HD
 https://www.dailymotion.com/video/x8eimg9
 
