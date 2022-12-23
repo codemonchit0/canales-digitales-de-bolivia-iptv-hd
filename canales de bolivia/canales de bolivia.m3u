@@ -23,7 +23,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GHf3QTr/ATB-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",ATB BOLIVIA HD
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOj02n72jgI4kIJIO5YwPY74D94e__pY-4_OZdcrxzwWP)/dm/3/x84eirw/d/live-3.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhrwGn4/ATB-SCZ-HD-NEW.jpg" group-title="Canales Bolivianos",ATB SANTA CRUZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84t82c
@@ -150,23 +150,11 @@ https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO LPZ HD
 https://www.dailymotion.com/video/x828xvr
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO LPZ TEST
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K9r9Jk/UNITEL-QATAR-HD-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL QATAR 2022 HD
-https://www.dailymotion.com/video/x8eimg9
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO SCZ HD
 https://www.dailymotion.com/video/x825whp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO SCZ TEST
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x825whp
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO CBBA HD
 https://www.dailymotion.com/video/x827j2y
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", RED UNO CBBA TEST
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x827j2y
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6apNwwGiudyWcC7wXXUAEovi-CPUt6YkDKbn_Yw61jTnL12mdLRbQtr26tjbMtQKl5xHopzr0J0XooynqSgX0uzaOYPPv_2N4Z4HSlpV11EPqtI0lUuD5HSe-4dr0td0OwCBKpNnIEXPF8Bq45rRVAgMWfqHi7AFNjFyafqv0Or8_fEX4CI7On0VTbA/s3024/ATB%20BOLIVIA%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB BOLIVIA HD
 https://www.dailymotion.com/video/x84eirw
@@ -177,15 +165,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCOJawTOGS6HGTjEzVg_oneRwXKPwcj3h8A25iWovOFsCbVHtbGxU2T2xt2wTgPahf3eWyy03ybwWZ86XXJHUnxbNo4mx5LKXsTWa7W17YYDMjgNQpY1uFOWdV0YgzKxm-93eDRX7w5UPZtP38yaF1DX3yMK6w6YIeXcjzVg1rAtl68yTyo2Q80z8iQ/s3024/ATB%20SCZ%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB SCZ HD
 https://www.dailymotion.com/video/x84t82c
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCOJawTOGS6HGTjEzVg_oneRwXKPwcj3h8A25iWovOFsCbVHtbGxU2T2xt2wTgPahf3eWyy03ybwWZ86XXJHUnxbNo4mx5LKXsTWa7W17YYDMjgNQpY1uFOWdV0YgzKxm-93eDRX7w5UPZtP38yaF1DX3yMK6w6YIeXcjzVg1rAtl68yTyo2Q80z8iQ/s3024/ATB%20SCZ%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB SCZ test
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84t82c
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEPA4_sXEXoCiFqfQUvJkGj6ysWcYCb6h1p9-Mql19PV3MGOzgKRlDQ9_eD5h2GtkjnNzP-oErpva_H-2pLKe3zf6s4RQdpBWeKRr5n8f4kQQR0jviRuAzvoTcpRrGNntWf_DmBHiP5kYPnGZK8mQC-8B75XG18Zpf1mJH3H8jEq-bv6PbSrGxIh7qA/s3024/ATB%20CBBA%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB CBBA HD
 https://www.dailymotion.com/video/x89sfvo
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWEPA4_sXEXoCiFqfQUvJkGj6ysWcYCb6h1p9-Mql19PV3MGOzgKRlDQ9_eD5h2GtkjnNzP-oErpva_H-2pLKe3zf6s4RQdpBWeKRr5n8f4kQQR0jviRuAzvoTcpRrGNntWf_DmBHiP5kYPnGZK8mQC-8B75XG18Zpf1mJH3H8jEq-bv6PbSrGxIh7qA/s3024/ATB%20CBBA%20VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", ATB CBBA test
-https://www.dailymotion.com/video/x89sfvo
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKrFSm6/UNITEL-LPZ-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
@@ -198,11 +179,6 @@ https://www.dailymotion.com/video/x7y922d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL BOLIVIA EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL BOLIVIA TEST
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
-
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
 **************DOCUMENTALES Y NOTICIAS**************
 
