@@ -31,13 +31,13 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB CBBA HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x89sfvo
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXh7LQGjyev7npd_1hVrxP4BkngEwG2OhDvFl_P-fWBI)/dm/3/x7vsfua/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldsfxg5/UNITEL-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",UNITEL COCHABAMBA HD [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldsfxg5/UNITEL-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",UNITEL COCHABAMBA HD
 https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJkE_KLVCBh5rpzYF44-Z6oz0KzGFKAsUK0zZceAHPSQ)/dm/3/x7y922d/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL SCZ HD [NOT 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL SCZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
@@ -310,19 +310,16 @@ https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 *****INTERNACIONAL HD USAR VLC*******
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVLGJWx/VTV-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",VENEZOLANA TV HD
-https://www.dailymotion.com/video/x828i6j
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828i6j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBmTTxQ/EURO-NEWS-VLC.jpg group-title="INTERNACIONAL HD USAR VLC",EURO NEWS HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/HYE67W-35KI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/O9mOtdZ-nSk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFW0Hdj/PANAMERICANA-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",PANAMERICANA HD
-https://www.dailymotion.com/video/x774s7s
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x774s7s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="INTERNACIONAL HD USAR VLC",CARACOL NOTICIAS EN VIVO HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/baQjc4qM2Tw
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zm3SmwN/TN-NOTICIAS-HD-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",TN NOTICIAS EN VIVO HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/wHn1_QVoXGM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/GDzAj6JsQtU
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wMP4N1/DW-ESPA-OL-VLC.jpg" group-title="INTERNACIONAL HD USAR VLC",DW ESPAÑOL EN VIVO HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/RTjbYKBB828
