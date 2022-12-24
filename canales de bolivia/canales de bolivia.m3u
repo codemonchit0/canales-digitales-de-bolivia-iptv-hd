@@ -40,7 +40,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL SC HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="anales Bolivianos", UNITEL EN VIVO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="Canales Bolivianos", UNITEL EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
