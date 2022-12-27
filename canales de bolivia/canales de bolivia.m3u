@@ -1,22 +1,19 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 23 DIC 15:55 p.m*********
+***CANALES DE BOLIVIA HD ACTUALIZADOS 26 DIC 20:35 p.m*********
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYfd8JB/RED-UNO-LA-PAZ.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1DKLZf/RED-UNO-X-LA-PAZ-HD.jpg" group-title="Canales Bolivianos",RED UNO LA PAZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="Canales Bolivianos",ERBOL HD 
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w773523259.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hXDQ7JB/RED-SANTA-CRUZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8btT9GJ/RED-UNO-X-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x825whp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rQNJbbr/UNO-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",RED UNO BOLIVIA HD 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8doufc
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YDNRtL1/RED-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqLPcVn/RED-UNO-X-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x827j2y
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="Canales Bolivianos",BOLIVISION LPZ HD
