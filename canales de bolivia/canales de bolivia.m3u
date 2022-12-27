@@ -8,7 +8,7 @@
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x828xvr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="Canales Bolivianos",ERBOL HD 
-https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w773523259.m3u8
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w899347328.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8btT9GJ/RED-UNO-X-SCZ-HD.jpg" group-title="Canales Bolivianos",RED UNO SANTA CRUZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x825whp
@@ -39,6 +39,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="Canales Bolivianos", UNITEL EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="Canales Bolivianos", UNITEL TEST HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
