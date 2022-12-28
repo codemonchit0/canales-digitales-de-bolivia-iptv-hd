@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 26 DIC 20:35 p.m*********
+***CANALES DE BOLIVIA HD ACTUALIZADOS 28 DIC 16:35 p.m*********
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -16,6 +16,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sqLPcVn/RED-UNO-X-CBBA-HD.jpg" group-title="Canales Bolivianos",RED UNO CBBA HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x827j2y
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXRr13f/RED-UNO-BOLIVIA-X-HD.jpg" group-title="Canales Bolivianos",RED UNO BOLIVIA HD
+https://www.dailymotion.com/video/x8do3kd
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="Canales Bolivianos",BOLIVISION LPZ HD
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
@@ -28,20 +31,17 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2fyNjR/atb-cochabamba-hd-nuevo.jpg" group-title="Canales Bolivianos",ATB CBBA HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x89sfvo
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VQ8mjpB/UNITEL-LA-PAZ-HD-02.jpg" group-title="Canales Bolivianos",UNITEL LA PAZ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmyhK76/UNITEL-LP-X-HD.jpg" group-title="Canales Bolivianos",UNITEL LPZ HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsfua
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldsfxg5/UNITEL-COCHABAMBA-HD.jpg" group-title="Canales Bolivianos",UNITEL COCHABAMBA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6jV8JM/UNITEL-CBBA-X-HD.jpg" group-title="Canales Bolivianos",UNITEL CBBA HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7y922d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="Canales Bolivianos",UNITEL SC HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0Jb760/UNITEL-SCZ-X-HD.jpg" group-title="Canales Bolivianos",UNITEL SC HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="Canales Bolivianos", UNITEL EN VIVO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2yPcVZ/UNITEL-EN-VIVO-X-HD.jpg" group-title="Canales Bolivianos", UNITEL EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="Canales Bolivianos", UNITEL TEST HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
@@ -179,6 +179,9 @@ https://www.dailymotion.com/video/x7y922d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL BOLIVIA EN VIVO HD
 https://www.dailymotion.com/video/x7wzxiw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cbn7jjz/UNITEL-BOLIVIA-HD.jpg" group-title="BOLIVIA 24/7 USAR VLC", UNITEL TEST HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wzxiw
 
 **************DOCUMENTALES Y NOTICIAS**************
 
