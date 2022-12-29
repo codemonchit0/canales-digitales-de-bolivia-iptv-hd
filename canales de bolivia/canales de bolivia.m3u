@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 28 DIC 19:45 p.m*********
+***CANALES DE BOLIVIA HD ACTUALIZADOS 29 DIC 01:45 a.m*********
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -315,7 +315,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/X
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w846167245.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg" group-title="Infantiles",PLANETA TV KIDS HD
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w348554768.m3u8
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1329572833.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TB5HRWH/OTT-PLAYER-2021.jpg" group-title="Infantiles",LOCOMOTION TV HD
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -332,8 +332,8 @@ https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ms5CPZc/WOWLY-HD.jpg" group-title="Infantiles",WOWLY HD
-https://stream.wowlymedia.com/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ms5CPZc/WOWLY-HD.jpg" group-title="Infantiles",KANADE TV HD
+https://cablemor.andremor.dev/live/vozpopuli/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Infantiles",SEO TV KIDS HD
 https://seo.tv.bo/tv/tv2KIDS.m3u8
@@ -368,7 +368,7 @@ https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxmLSpY/PLANETA-MUSIC-HD.jpg" group-title="Musicales",PLANETA TV MUSIC HD
-https://scl.edge.grupoz.cl/music/live/chunklist_w1918406275.m3u8
+https://scl.edge.grupoz.cl/music/live/chunklist_w1905051262.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/94SfsJk/ROCK-TV-HD.jpg" group-title="Musicales",RCK TV HD
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w603424388.m3u8
@@ -424,7 +424,7 @@ https://s2.tvdatta.com:3849/hybrid/play.m3u8
 https://s2.tvdatta.com:3402/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="SERIES PELICULAS ESTRENOS",PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/chunklist_w326436110.m3u8
+https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="SERIES PELICULAS ESTRENOS",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
