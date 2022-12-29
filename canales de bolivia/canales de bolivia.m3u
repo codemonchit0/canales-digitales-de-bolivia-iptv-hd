@@ -44,10 +44,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://www.dailymotion.com/video/x7wzxiw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Kn6Bwt/RTP-EN-VIVO-HD.jpg" group-title="Canales Bolivianos",RTP LA PAZ
-https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w1804841660.m3u8
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w793546852.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="Canales Bolivianos",CADENA A HD [NOT 24/7]
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w786321094.m3u8
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1582604668.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.1 HD
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
@@ -56,7 +56,7 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1791536562.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
-https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w982913607.m3u8
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1721425263.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
 https://seo.tv.bo/tv/tv1SEO.m3u8
