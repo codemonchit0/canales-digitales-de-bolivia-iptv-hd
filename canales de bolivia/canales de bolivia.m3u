@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 29 DIC 01:45 a.m*********
+***CANALES DE BOLIVIA HD ACTUALIZADOS 04 ENERO 01:45 a.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -332,8 +332,8 @@ https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ms5CPZc/WOWLY-HD.jpg" group-title="Infantiles",KANADE TV HD
-https://cablemor.andremor.dev/live/vozpopuli/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hZC2hw5/kanade-anime-hd.jpg" group-title="Infantiles",KANADE TV HD
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Infantiles",SEO TV KIDS HD
 https://seo.tv.bo/tv/tv2KIDS.m3u8
