@@ -1,5 +1,5 @@
 #EXTM3U
-***CANALES DE BOLIVIA HD ACTUALIZADOS 04 ENERO 01:45 a.m********* 2023 ****
+***CANALES DE BOLIVIA HD ACTUALIZADOS 05 ENERO 01:45 a.m********* 2023 ****
  *******LISTA HECHA POR TV BOLIVIA DIGITAL***** CODEMONCHIT0 *******WEB.EMPRESA.CARLOS@GMAIL.COM*******
  *******EN LA SECCION BOLIVIA 24/7 VLC LOS CANALES: UNITEL, ATB, RED UNO, TIENEN QUE ABRIRLOS CON EL REPRODUCTOR EXTERNO VLC******
  *******SE RECOMIENDA COMO REPRODUCTOR IPTV EL ***EXTREME IPTV***********  
@@ -143,10 +143,13 @@ https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w967622427.m3u8
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="Canales Bolivianos",FTV HD
-https://master.tucableip.com/ftv/tracks-v1a1/mono.m3u8
+https://master.tucableip.com//ftv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bB4j1n2/ZOY-TV-HD-BOLIVIA.jpg" group-title="Canales Bolivianos",ZOY TV HD
 https://master.tucableip.com//zoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="Canales Bolivianos",UNIVALLE TV HD
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
 ***********SECCION CANALES BOLIVIA 24/7 USAR REPRODUCTOR EXTERNO VLC  EN SU REPRODUCTOR IPTV************
 
@@ -233,7 +236,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s5rgDfx/TV-PERU-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TV PERU NOTICIAS HD
 https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="DOCUMENTALES Y NOTICIAS",ATV+ NOTICIAS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",ATV+ NOTICIAS HD
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
 **************CANALES INTERNACIONALES**************
@@ -275,7 +278,7 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myR3tZp/SE-AL-COLOMBIA-HD.jpg" group-title="Internacional",SEÑAL COLOMBIA HD
-https://streaming.rtvc.gov.co/TV_RTVCInformativo_live/live-750/chunklist.m3u81
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b3500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGRjYSF/NET-TV-HD.jpg" group-title="Internacional",NET TV HD
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
