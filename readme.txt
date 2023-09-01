@@ -1,5 +1,5 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 29 AGOSTO 2023  19:15 p.m======
+====== 01 SEPTIEMBRE 2023  06:15 a.m======
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2023<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
@@ -28,7 +28,7 @@ presentando problemas de origen de congelamiento de fotogramas en reproduccion e
 -*- renuevadigital, la señal de origen esta en offline desde el mes de mayo.
 -*- cadena A, solo transmite en vivo en noticieros y ciertas revistas matinales o programas deportivos.
 -*- red uno, hay que actualizar el enlace en el VLC cada 8 horas.
-
+-*- Canales zoy tv, zoy tv novelas turkas presentan problemas de origen señal offline.
 
 ---PROYECTO IMPLEMENTADO---
 para los canales RED UNO, ATB, UNITEL, se agrego una opcion BOLIVIA 24/7 con enlaces fijos, el detalle radica
