@@ -1,14 +1,17 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-====== 03 SEPTIEMBRE 2023 ======
+================ 04 SEPTIEMBRE 2023 ============
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2023<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 NOTA: la lista se actualizara dia por medio, los canales fijos, red uno, unitel.
 
-recordarles que para visualizar los canales de bolivia, tiene que usar el reproductor externo VLV, de la
+recordarles que para visualizar los canales de bolivia, tiene que usar el reproductor externo VLC, de la
 seccion CANALES DE BOLIVIA 24/7.
 Se recomienda el uso del reproductor IPTV :
 IPTV PRO, IPTV EXTREME, TIVIMATE.
+
+-La lista ya es compatible para usarla con el reproductor global KODI,
+para pc, android tv, MacOS, TvOS, IOS, Linux, Raspherry PI.
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 
@@ -35,5 +38,10 @@ para los canales RED UNO, ATB, UNITEL, se agrego una opcion BOLIVIA 24/7 con enl
 de que es necesario implementar un reproductor externo como VLC, en las opciones LIVE del reproductor iptv, con
 ello ya se podra ver sin problemas esa seccion, recordando que los canales UNITEL solo transmiten en vivo
 en horarios de noticieros y revistas.
+
+Para este año 2023 se esta armando una carpeta tecnica, para presentarla a todos los canales locales de bolivia
+la cual se la presentara de forma personal a cada plata ejecutiva de los canales.
+para que implementen a presente de forma solida una opcion fija compatible con las listas m3u8, y asi cada
+canal de bolivia implemente de forma profesional su señal en vivo por streaming en internet.
 
 contacto :  web.empresa.carlos@gmail.com
