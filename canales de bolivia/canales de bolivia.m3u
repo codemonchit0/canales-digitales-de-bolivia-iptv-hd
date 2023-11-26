@@ -288,12 +288,6 @@ https://cdn75.iblups.com/hls/1/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtt310b/TELEMADRID-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TELEMADRID HD
 https://new-international-23.secure2.footprint.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKN4spj/BEST-CABLE-DEPORTES-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",BEST CABLE SPORT HD
-https://mi.godo.net.pe/Best-cable-sports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVRTP5M/BEST-CABLE-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",BEST CABLE TV HD
-https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ8WjZg/GARAGE-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",GARAGE TV HD
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -420,17 +414,8 @@ https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/chunklist_w1595487652.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9v8n1rQ/MEMORIAS-TV.jpg" group-title="MUSICALES",MEMORIAS TV HD
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FV1XjNL/BEST-CABLE-MUSIC-HD.jpg" group-title="MUSICALES",BEST CABLE MUSIC HD
-https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxWgkGC/HATUN-TV-HD.jpg" group-title="MUSICALES",HATUN TV HD
-https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cyrNJJV/RADIO-TECA-HD.jpg" group-title="MUSICALES",RADIOTECA HD
 https://paneltv.net:3908/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1dVjn54/ZAPPING-MUSIC-HD.jpg" group-title="MUSICALES",ZAPPING TV HD
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QMGc3SYR/ETERNAL-METAL-HD.jpg" group-title="MUSICALES",ETERNAL METAL HD
 https://vdo.panelstreaming.live:3261/stream/play.m3u8
