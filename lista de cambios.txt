@@ -242,3 +242,10 @@ ATB LA PAZ, SCZ.
 F10 BOLIVIA LPZ.
 
 -Se corrigieron la programacio de muchos canales.
+
+============ miercoles 13 marzo 2024 ==============
+-Se arreglo las lista global de los canales y se procedio a eliminar los canales offline
+se actualizarion los enlaces locales.
+
+-canal red uno de bolivia ya no transmite 24/7, por lo cual solo esta en vivo en horarios de noticias y revistas
+tienen que verlo en la seccion  BOLIVIA VLC con el reproductor VLC.

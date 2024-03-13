@@ -1,6 +1,6 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-================ 14 DICIEMBRE 2023 ============
->>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2023<<
+================ 13 MARZO 2024 ============
+>>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2024<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 NOTA: la lista se actualizara dia por medio, los canales fijos, red uno, unitel.
@@ -18,19 +18,20 @@ para pc, android tv, MacOS, TvOS, IOS, Linux, Raspherry PI.
 
 --PROBLEMAS TECNICOS DE CIERTOS CANALES LOCALES--
 los siguientes canales tienen problemas tecnicos de origen.
--*- F10 BOLIVIA , Presenta el problema de que no esta online 24/7.
--*- PAT LA PAZ Y SANTA CRUZ, las señales de origen se actualizaron y no se encuentra estable, tiene problemas de estabilidad en horarios de noticieros y revistas y no se encuentra online 24/7.
--*- RTP LA PAZ, su pagina web se esta actualizando y el streaming esta offline desde el dia 06 junio 2023.
-donde, la imagen se congela demasiado, tiene problemas de origen.
+-*- RED UNO BOLIVIA, en sus señales globales de LA PAZ, SANTA CRUZ, COCHABAMBA ya no transmiten 24/7, solo
+transmiten de forma irregular en los horarios de noticias y ciertos programas de la noche.
+-*- F10 BOLIVIA , Presenta el problemas de origen el cual no es estable su señal.
+-*- PAT LA PAZ Y SANTA CRUZ, las señales de origen se actualizaron y no se encuentran estables, tiene problemas de estabilidad en horarios de noticieros y revistas y no se encuentra online 24/7.
+-*- TVU LA PAZ, presenta problemas de origen con carga lenta y de cortes esporadicos.
+-*- RTP LA PAZ, su pagina web se esta actualizando y el streaming esta desabilitado de origen desde el dia 24 noviembre 2023. donde su señal en vivo solo se visualiza desde su aplicacion apk.
 -*- PALENQUE TV, su streaming transimision en vivo no esta online 24/7, y cuando se encuentra online sigue
 presentando problemas de origen de congelamiento de fotogramas en reproduccion etc.
--*- RED UNO LA PAZ, presenta problemas de origen, retraso de reproduccion de video imagenes lentas fotogramas con lentitud.
--*- Bolivision, se soluciono el problema de reproduccion de origen, ahora posee 2 opciones por streaming.
+-*- Bolivision, se actualizo los enlaces de streaming, puede presentar problemas los fines de semana.
 -*- unitel, no tiene programacion en vivo 24/7, solo transmite en vivo en ciertos horarios, de revistas y noticieros
 -*- canal 7.1 BTV, La señal de origen no es estable y se satura, optar por usar 7.2.
 -*- renuevadigital, la señal de origen esta en offline desde el mes de mayo.
 -*- cadena A, solo transmite en vivo en noticieros y ciertas revistas matinales o programas deportivos.
--*- red uno, hay que actualizar el enlace en el VLC cada 8 horas.
+-*- para ver red uno, hay que actualizar el enlace en el VLC cada 8 horas.
 -*- Canales zoy tv, zoy tv novelas turkas presentan problemas de origen señal offline.
 
 ---PROYECTO IMPLEMENTADO---
@@ -39,9 +40,11 @@ de que es necesario implementar un reproductor externo como VLC, en las opciones
 ello ya se podra ver sin problemas esa seccion, recordando que los canales UNITEL solo transmiten en vivo
 en horarios de noticieros y revistas.
 
-Para este año 2023 se esta armando una carpeta tecnica, para presentarla a todos los canales locales de bolivia
-la cual se la presentara de forma personal a cada plata ejecutiva de los canales.
+Para este año 2024 se a armando una carpeta tecnica, presentandola a todos los canales locales de bolivia
+la cual se la a presentado de forma personal a cada plata ejecutiva de los canales.
 para que implementen a presente de forma solida una opcion fija compatible con las listas m3u8, y asi cada
 canal de bolivia implemente de forma profesional su señal en vivo por streaming en internet.
+pero como todo tramite lleva su tiempo y hay que hacer el seguimiento de ello, y esperemos que en un futuro
+se pueda implementar
 
 contacto :  web.empresa.carlos@gmail.com
