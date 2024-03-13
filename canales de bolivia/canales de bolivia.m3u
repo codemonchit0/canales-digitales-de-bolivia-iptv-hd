@@ -12,7 +12,7 @@ https://stream-04.nyc.dailymotion.com/sec(Ph6IkEIFWyq0CZ9Pa6C_MCeMvhVrgYH-vPkG2X
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyTZrT7iN33VzJIIS6ngrOjouYX_AUCkt16UWYvs8Kds)/dm/3/x7wzxiw/s/live-3.m3u8
 
-#EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
 https://live-c.cf.dmcdn.net/sec2(rQTr2jk-Xc1N6rfALlLFZjc1Lg2--d4PMo8t5kcg3uJxwoaba4-UB68IOLXPxxGQtRrx8kU9DRv2_4mms4kuVL0oxKyuvdBT8E1CLma5HeA)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVISION BOLIVIA" tvg-logo="https://i.postimg.cc/hG6r5sj0/bolivisionlapazbo.jpg" group-title="CANALES DE BOLIVIA",BOLIVISION LPZ HD
@@ -27,7 +27,7 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",CADENA A HD [NOT 24/7]
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w676725952.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d664F5t/CADENA-A-HD.jpg" group-title="CANALES DE BOLIVIA",TV MEGAVISION HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRyzkg7K/MEGAVISION-HD.jpg" group-title="CANALES DE BOLIVIA",TV MEGAVISION HD
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV 7.1 HD" tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 HD
@@ -141,19 +141,19 @@ https://www.dailymotion.com/video/x8s1at2
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA CBBA HD
 https://www.dailymotion.com/video/x8ra7t7
 
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6apNwwGiudyWcC7wXXUAEovi-CPUt6YkDKbn_Yw61jTnL12mdLRbQtr26tjbMtQKl5xHopzr0J0XooynqSgX0uzaOYPPv_2N4Z4HSlpV11EPqtI0lUuD5HSe-4dr0td0OwCBKpNnIEXPF8Bq45rRVAgMWfqHi7AFNjFyafqv0Or8_fEX4CI7On0VTbA/s3024/ATB BOLIVIA%20BOLIVIA%20VLC.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA HD
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/Y06y7NgW/ATB-BOLIVIA-HD.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA HD
 https://www.dailymotion.com/video/x84eirw
 
-#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCOJawTOGS6HGTjEzVg_oneRwXKPwcj3h8A25iWovOFsCbVHtbGxU2T2xt2wTgPahf3eWyy03ybwWZ86XXJHUnxbNo4mx5LKXsTWa7W17YYDMjgNQpY1uFOWdV0YgzKxm-93eDRX7w5UPZtP38yaF1DX3yMK6w6YIeXcjzVg1rAtl68yTyo2Q80z8iQ/s3024/ATB BOLIVIA%20SCZ%20VLC.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA SCZ HD
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC", ATB BOLIVIA SCZ HD
 https://www.dailymotion.com/video/x84t82c
 
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/JKrFSm6/UNITEL-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
 https://www.dailymotion.com/video/x7vsfua
 
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/k52t75S/UNITEL-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
 https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/qj8PMYj/UNITEL-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/d3LzKZ6R/UNITEL-CBBA-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
 https://www.dailymotion.com/video/x7y922d
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
@@ -264,7 +264,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",CRONICA TV HD
 https://g5.proy-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLCrSRdh/CRONICA-TV-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",TVP ARGENTINA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="DOCUMENTALES Y NOTICIAS",TVP ARGENTINA HD
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vd2hpm7/EWNT-HD.jpg" group-title="DOCUMENTALES Y NOTICIAS",EWTN HD
