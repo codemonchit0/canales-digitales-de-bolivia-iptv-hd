@@ -1,5 +1,5 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-================ 21 MARZO 2024 ============
+================ 25 MARZO 2024 ============
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2024<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
@@ -20,7 +20,6 @@ para pc, android tv, MacOS, TvOS, IOS, Linux, Raspherry PI.
 los siguientes canales tienen problemas tecnicos de origen.
 -*- RED UNO BOLIVIA, en sus señales globales de LA PAZ, SANTA CRUZ, COCHABAMBA ya no transmiten 24/7, solo
 transmiten de forma irregular en los horarios de noticias y ciertos programas de la noche.
--*- F10 BOLIVIA , Presenta el problemas de origen el cual no es estable su señal.
 -*- PAT LA PAZ Y SANTA CRUZ, las señales de origen se actualizaron y no se encuentran estables, tiene problemas de estabilidad en horarios de noticieros y revistas y no se encuentra online 24/7.
 -*- TVU LA PAZ, presenta problemas de origen con carga lenta y de cortes esporadicos.
 -*- RTP LA PAZ, su pagina web se esta actualizando y el streaming esta desabilitado de origen desde el dia 24 noviembre 2023. donde su señal en vivo solo se visualiza desde su aplicacion apk.
