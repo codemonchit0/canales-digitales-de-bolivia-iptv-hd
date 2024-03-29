@@ -1,9 +1,19 @@
 ===========FECHA DE ULTIMA ACTUALIZACION========
-================ 25 MARZO 2024 ============
+================ 29 MARZO 2024 ============
 >>PROYECTO DE CANALES DIGITALES DE BOLIVIA HD-2020-2024<<
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
-NOTA: la lista se actualizara dia por medio, los canales fijos, red uno, unitel.
+--NOTA IMPORTANTE: la lista se actualizara a diario, de los canales fijos, red uno, unitel, atb
+
+--LOS HORARIOS PARA VER LOS CANALES FIJOS, RED UNO, UNITEL, ATB, SON LOS SIGUIENTES:
+de lunes a viernes en horarios 12:35 -12:45 a.m,  19:10 p.m, 22:10 p.m, en esos horarios actualize la lista.
+
+--sabado y domingo no se actualiza de forma oportuna los enlaces asi que vea esos canales en la seccion:
+"CANALES DE BOLIVIA VLC" abra los enlaces de los canales con los reproductores externos:
+VLC, MX PLAYER PRO, X PLAYER.
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 recordarles que para visualizar los canales de bolivia, tiene que usar el reproductor externo VLC, de la
 seccion CANALES DE BOLIVIA 24/7.
