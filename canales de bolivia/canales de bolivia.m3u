@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(4RgmaYrabLr5x9uzAYp3hyZqL5cNLVp9deITFcXQMxarYSQKgafBwsIpzQlQ8y4G6nCpNcRWjjAqtz-AODK4jYI7Z3DJYi5jvibBagG89KA)/dm/3/x8vufvw/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(iMvtmBG274VJ6tzUPIOnpBEfZYHTN6sCFzAHMy888fgGspLRd397AMlTwi26MWRkhw9w7cByrCrz7YDUQJg0A4kPnDUqZEIAP7zlBT-V1tc)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
 https://live-c.cf.dmcdn.net/sec2(4RgmaYrabLr5x9uzAYp3hyZqL5cNLVp9deITFcXQMxarYSQKgafBwsIpzQlQ8y4G6nCpNcRWjjAqtz-AODK4jYI7Z3DJYi5jvibBagG89KA)/dm/3/x8vufvw/d/live-3.m3u8
@@ -13,10 +13,10 @@ https://live-b.cf.dmcdn.net/sec2(-aeEsds64pRpGBsB8EpOY_snmRcuartHtr0eUYJLZAGbN7C
 https://ssh101-fl.bozztv.com/ssh101/sekaianimebo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL BOLIVIA" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" group-title="CANALES DE BOLIVIA",UNITEL NACIONAL
-https://live-c.cf.dmcdn.net/sec2(StOLqfhKL--kPhvpH49m_XpL1TmAfSxG74gocrd_BNQ5aMqW9St669qg6VdpZ5xyrOI7wPrYkxfl4a12VjCbdronCuLgbjkNcjG2PIs4QNw)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(sPdMrNNduCLkmnzOsu3qbMrMCM4WnJkXmniyMXietQOV4NhkrySinF8gCgeKqU42rDV6codN-ogv-MxjJRL3PwzWRJhrl058loAl4Yu0TF8)/dm/3/x7wzxiw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="CANALES DE BOLIVIA",ATB BOLIVIA
-https://live-b.cf.dmcdn.net/sec2(Ck70_xs8g2tLHYEPdDETlxbnQpJmNd1g-34ESTt--KQOT4H5s1HRKj9JV2u5ZyTLRNGfqQyPPBVw3XsdZ3xOD7iKMj9kLH504ZbPv1_QdxA)/dm/3/x84eirw/s/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(siMqcWs40BYFcY3lw8Y_4S6HaRBZTYhPbPK7jwbkc2J_ooR81tWKyHsNyRVgWw6Hk4ZI4OvsuEtio5fn083JY-wxQpk_18OzhfAF3Vii9EU)/dm/3/x84eirw/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/CLfjYr5X/ATB-MOVIL-HD.jpg" group-title="CANALES DE BOLIVIA",ATB MOVIL
 http://186.121.206.197/live/daniel/index.m3u8
