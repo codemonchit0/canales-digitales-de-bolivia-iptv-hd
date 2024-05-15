@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
-https://live-c.cf.dmcdn.net/sec2(IWYYW11lXdpLcJG32j0KUmFYkp0IhQSlRbIJWdKyk6PVJx2BtYy8yRbTkd1Rayywem3Gz5Ps8PFYb20BO3dBkt57E_qRvGo4u5o3LdLc8vA)/dm/3/x8vzlqi/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(rMZtvBPHC2rKHhR6Xu5uyJdGPqJ95GuMlGCzLxYJGZvG5N-G4iATbca32dx6lQgG9IMAUklY1Kk3pBGm19QUbXcIf5zlC1MTGh4aYMs0ao4)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
 https://live-b.cf.dmcdn.net/sec2(3ITPQWmYL_LTXgJx5NMd6arY_yIpdlOJvgWSFHQY9zVmXyw3zlxBxrN8fcaE9MazKOE4aHWHyit1GitX0788McgDXmPcdcmjxb8WXD0LJgk)/dm/3/x8vufvw/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/ydLyZj1k/RUNOxcbba.jpg" group-title="CANALES DE BOLIVIA",RED UNO CBBA
-https://live-c.cf.dmcdn.net/sec2(EoeAtHhl0Y2JaHisTi2iiqAKqcVupnpfTJbUiexxx_Wn-6cu8cKcBmhtKNf6Vv-VrCiTcmj1eGbhK_Li62MU3cLR53xgVvoP__we7x1Jq9U)/dm/3/x8ra7t7/d/live-3.m3u8
+https://live-c.cf.dmcdn.net/sec2(IhwaAIZGo9kUOUGYS-HxDvWEg4rAWskOTLWZJRqNEe356PkyxfYq0zo6Vct0oT0alH7FFG4n1_oZFpBv6A1Qwh9kLW0bao5l8ksICbj2s7I)/dm/3/x8ra7t7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="SEKAI BOLIVIA" tvg-logo="https://i.postimg.cc/jddFkD1p/Sekaibo01.jpg" group-title="CANALES DE BOLIVIA",SEKAI BOLIVIA HD  [NOT 24/7]
 https://ssh101-fl.bozztv.com/ssh101/sekaianimebo/tracks-v1a1/mono.m3u8
