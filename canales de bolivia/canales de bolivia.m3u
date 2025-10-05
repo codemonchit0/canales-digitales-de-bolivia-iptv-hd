@@ -114,11 +114,17 @@ http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l714tmONEEfsJVREuiEjU8Puc6PwOPA4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="DEPORTES HD",FOX SPORT SUR HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l714tmONEEfsJVREuiEjU8PTsMQAbAcDLaqroPLY6RNZ/m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="DEPORTES HD",DAZN F1 HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l0IyocsOMdHZFcxm49Hi6NcoHiMSM0WA9F6gcyR8qMwb/m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",BATMAN HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l08ld-JTFCZmglet3Lz6uv8w0SdIFj8IpvCRHw42Qma_/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGP087V/DPSHD.jpg" group-title="24/7",BETTY LA FEA HD
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1TTTRzw7IpOlggk8DZ3dkIy56QaMwo1FKfj0HXRpgEg/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR2B7x2X/PMHD.jpg" group-title="PELICULAS",SUPERMAN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4x1jGLfZ/SUPERMAN.jpg" group-title="MOVIE",SUPERMAN HD
 http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ay1l4GZCwDs7DViCK-PXaIx2UmzZp_bGzAUYvFy9r07NQ#.mp4
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CM70Csns/JURASSIC.jpg" group-title="MOVIE",JURASSIC WORL RENACE HD
+http://apphd.net:25461/play/yCn1KTTLcair-f2TW2MuWcMQeslgsBlFqGTxZbHU9Dp7uX54jZthvMF1874OB9ayLYFWPl9hg4SzK-ORD9uI54SDEFeXu2zWwnOUlC5DaSg#.mp4
