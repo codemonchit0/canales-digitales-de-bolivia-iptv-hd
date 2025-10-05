@@ -330,4 +330,10 @@ tvu umsa, rtp bolivia, f10 bolivia, solidaria tv, seo tv hd.
 -Se agregaron 2 canales para eventos del canal (futbol canal) liga boliviana.
 -Correccion de errores y actualizacion de url de la lista en general.
 
+========= domingo 05 octubre 2025 ==============
+
+-esta en prueba canales premium lista premium
+-enlaces de lista premium dinamicos
+-se elimino canales de bolivia que no son vistos o que presentan problemas.
+
 
