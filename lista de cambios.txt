@@ -336,4 +336,10 @@ tvu umsa, rtp bolivia, f10 bolivia, solidaria tv, seo tv hd.
 -enlaces de lista premium dinamicos
 -se elimino canales de bolivia que no son vistos o que presentan problemas.
 
+========= miercoles 15 octubre 2025 ==============
+
+-Actualizacion de lista de local.
+-se agrego mas canales premium HD.
+-se agregaron los iconos respectivos a los canales premium.
+
 
