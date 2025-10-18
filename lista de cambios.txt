@@ -342,4 +342,26 @@ tvu umsa, rtp bolivia, f10 bolivia, solidaria tv, seo tv hd.
 -se agrego mas canales premium HD.
 -se agregaron los iconos respectivos a los canales premium.
 
+========= viernes 17 octubre 2025 ==============
+
+-Actualizacion del README con mejor descripcion del proyecto.
+-Mantenimiento de señales de los canales SECCION PREMIUM.
+-Se actualizaron enlaces nuevos de los canales:
+RED GIGAVISION LA PAZ Y SANTA CRUZ, RTP LA PAZ, ABYA YALA TV.
+-Se agregaron nuevos canales:
+AMITEL TV, TELE ESTRELLA HD, UNIVALLE TV, TV OFF.
+-Mantenimiento de lista en general eliminando enlaces de canales OFFLINE.
+
+========= sabado 18 octubre 2025 ==============
+
+-Se agrego los canales locales de bolivia:
+BTV 7.1, BTV 7.2 (SEÑALES PARA ABRIR CON VLC)
+-Se agregaron señales HD y SD de los siguientes canales:
+DW ESPAÑOL, RT NOTICIAS ESPAÑOL.
+-Se agrego la señal internacional:
+EL TORO TV.
+-Correccion de enlaces de algunos canales SECCION PREMIUM HD.
+-Actualizacion de imagenes de SECCION VLC BOLIVIA.
+-Canal BTV 7.1 opcion 02 se agrego señal no 24/7.
+
 
