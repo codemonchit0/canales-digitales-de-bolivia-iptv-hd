@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/vH36hTf6/RUNOlapaz.jpg" group-title="CANALES DE BOLIVIA",RED UNO LPZ 
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WObVqrNrg0PW8uhZwgntbfA/m3u8
 
-#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="CANALES DE BOLIVIA",RED UNO SCZ
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WOQgCvlp5fuOBLjG63kaFVA/m3u8
+
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="CANALES DE BOLIVIA",RED UNO HD
+https://live.eu-north-1a.cf.dmcdn.net/sec2(s8QZL7bCsiBLGnEZgWtzJwDj1chrydOXNHtiycWXjxuofFWunAiauRP3TpmwpjT12vGbLz5t5939eXQWiHh1Akt0kvJcR1bczswGwIds8bpoMJv0qc4WRPMO5c58tfNO)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TDTMULTI" tvg-logo="https://i.postimg.cc/XJQTBMT6/tdtMULT5.jpg" group-title="CANALES DE BOLIVIA",TDT MULTIMEDIA HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w174174801.m3u8
@@ -31,7 +34,7 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l1vWQ0IFKVg_krdeSPFU0WP67-NgxJDPwDeOoMqxrSgk/m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/skXKCmW/btv2222s.jpg" group-title="CANALES DE BOLIVIA",BOLIVIA TV 7.1 2 HD
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(B_qlErC27mCeYs3m6eXMeeepU9kreuNfO0VtUv0cMLhAzdXAERle_l1JwHmjS_wFyY9OW_L0GRWwgYrJyrxOnY4F5v3wiJX0ybJ2mjU7folmmYLNfJLIJn7-V3rNDAgd)/cloud/3/x9nzqpo/d/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(MpJMUWarRQV65L-73kLPTzYy6_rjN_aWazH08isL-sEdFn2GiiVQFBu0LjL0B2RSIg9qxJbKsEjW2F6xlMrd7hIrIuhuC_C1jeIlDJCyqv_hcX317kwjd6YQLBN9L7uP)/cloud/3/x9nzqpo/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="CANALES DE BOLIVIA",TVU UMSA HD
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
@@ -115,13 +118,13 @@ https://live20.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/chunks.m3u8
 https://live.eu-north-1a.cf.dmcdn.net/sec2(fgb-N8rN0JRbcco6gUCJtuPBMrLXPDvTcRpVU9S3lHIuArPkZHmwBNzSmIPnm547a2mIqrjoD_vbttejy0Ao3R6phb5ubE5dWcEUyFkzdKk_lVx-zYod6N0H65VXIEAp)/dm/3/x9mmebq/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/rmXdsrX7/RUNOscz.jpg" group-title="BOLIVIA SOLO NOTICIAS",RED UNO SCZ HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(SZ0HJ9xXg7vHFbTGy02m8zFoyM9_R6EnFDlT-cNNJiIli7AmPlUZzf5XLjQknKOapGYPaNpLKjVFZF2QNfw8DO4CCt5h3iusqzsz6Zvu8AxHpb3IDBIjBLD_aCFLP4iT)/dm/3/x9mmebq/d/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(uljcRvK734_q_bsJm9tCo9K15pcBIDYB3KyDlAGgUefPXm-quQkydchbl3irYpVq0oThQyI1zVqqZaEIQz4BzxRKBf8F_PUf2CnfhxBgI2tH01iD4Vr_kLSohWHTR2io)/dm/3/x9n2qyk/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/02Mmdp2Y/UNITEL-NACIONAL-HD.jpg" group-title="BOLIVIA SOLO NOTICIAS",UNITEL BOLIVIA HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(fSYwGF9HjUWkhL3ToPiiX8ZIptBA4H4JFyBT5XfXPnJRT5R2C4tgxFAURFXfOxbMk4cEpmpvL9qvgyrxpGPPqVUGZ7FJaf866toz66ldwxA60HJqHioN0WoOpc_w3vLl)/cloud/3/x7wzxiw/s/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(2PzYKe9dzXUyGsQ2pOJ1IVnZW97p--Axit4qjv7LJpmd1qpMOSx4FtOlVFStKJcc1XgVnapFXz6GfMsBLBXu51qrfLrcHO1x0k8aT8R29hBbHlB_FjciSn6ZEdm6fsO2)/cloud/3/x7wzxiw/s/live-1080.m3u8
 
 #EXTINF:-1 tvg-id="ATB" tvg-logo="https://i.postimg.cc/W3q9NKKK/atbhdbolivia.jpg" group-title="BOLIVIA SOLO NOTICIAS",ATB BOLIVIA HD
-https://live.eu-north-1a.cf.dmcdn.net/sec2(FugCnLA9YS2d7ZFpviyVB1tNZ38tBzRLzGc4xG3o-m5cVtpME6TKPuPhiIamfuCrdPDcJRWtfitAVTYFDumWL3irIl-jSS9FIiwO27cIo_7sXG_A1AooMPmC9mICHMMJ)/dm/3/x84eirw/s/live-720.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(BPoMlPegQ3qpfZ0lAmX5wDR5wByQSIz98gI1Z1Yjm3Ps9gPYPT__PqaJ22DfdlFlxAQIHR9mh35QkaY115lkXpL4MeuWG8OY4nPx2aMrjoMipHbSnPpIApA92dMwdrdN)/dm/3/x84eirw/s/live-720.m3u8
 
 #EXTINF:-1 tvg-id="RED UNO" tvg-logo="https://i.postimg.cc/HWQ1JNbV/RED-UNO-LPZ-VLC-HD-02.jpg" group-title="VLC BOLIVIA",RED UNO LPZ HD
 https://www.dailymotion.com/video/x9mmebq
