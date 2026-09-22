@@ -509,6 +509,10 @@ UNITEL LA PAZ, TV OFF, AYNI TV, TELE ESTRELLE TV, AMITEL TV, RED SIGLO XXI,WARA 
 -Correccion bolivision (puede que no sea estable por cambiar a direcciones dinamicas con token)
 -Correccion de señales del canal DW ESPAÑOL Y INGLES.
 
+========= martes 22 septiembre 2026 ==============
+-correccion enlaces canal DW en español y ingles.
+-canales de bolivision bolivia ya no se puede usar enlaces por que actualizaron a token sus url de origen del streaming.
+
 
 
 

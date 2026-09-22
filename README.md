@@ -12,8 +12,8 @@
 ![](https://i.ibb.co/ymB7mXBL/01EST.png)
 ### CANALES DIGITALES DE BOLIVIA 
 ![](https://i.postimg.cc/X7sZNxDG/01BOL.png)![](https://i.ibb.co/v6yjnH0F/chbol.png)![](https://i.postimg.cc/tTfjmZBB/03BOL.png)
-- Fecha de actualizacion:  **26 agosto 2026** canales en vivo de bolivia
-- **correccion de señales locales y internacionales**
+- Fecha de actualizacion:  **22 septiembre 2026** canales en vivo de bolivia
+- **correccion de señales locales y internacionales, canales bolivision ya no tienen señal abierta**
 
 ### Horarios de actualizacion de lista de canales:
 - De lunes y viernes 16:15 p.m y 19:15 p.m
